@@ -1,0 +1,27 @@
+* {
+    font-family: 'Noto Serif TC', serif;
+    /* border: thick double #32a1ce; */
+}
+
+body{
+    background-color: wheat;
+}
+h1{
+    color: rgb(117, 36, 36);
+    margin-left: 38px;
+    font-weight: 600;
+    text-transform: inherit;
+    letter-spacing: 1ch;
+}
+h5{
+    color: saddlebrown;
+    /* text-align:unset; */
+    margin-left: 208px;
+    font-weight: 300;
+}
+p{
+    color: saddlebrown;
+    margin-left: 40px;
+    letter-spacing: 1ch;
+    font-weight: 550;
+}
